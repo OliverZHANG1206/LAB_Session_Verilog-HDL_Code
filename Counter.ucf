@@ -1,0 +1,16 @@
+NET "clk" BUFG = CLK ;
+NET "LSB[0]"  LOC = "P33"  ; 
+NET "LSB[1]"  LOC = "P34"  ; 
+NET "LSB[2]"  LOC = "P36"  ; 
+NET "LSB[3]"  LOC = "P38"  ; 
+NET "LSB[4]"  LOC = "P37"  ; 
+NET "LSB[5]"  LOC = "P32"  ; 
+NET "LSB[6]"  LOC = "P31"  ; 
+NET "MSB[0]"  LOC = "P8"  ; 
+NET "MSB[1]"  LOC = "P12"  ; 
+NET "MSB[2]"  LOC = "P13"  ; 
+NET "MSB[3]"  LOC = "P16"  ; 
+NET "MSB[4]"  LOC = "P14"  ; 
+NET "MSB[5]"  LOC = "P6"  ; 
+NET "MSB[6]"  LOC = "P5"  ; 
+NET "reset" BUFG = SR ;
