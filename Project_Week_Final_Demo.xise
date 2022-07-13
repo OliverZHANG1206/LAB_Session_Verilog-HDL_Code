@@ -44,10 +44,7 @@
     <file xil_pn:name="FSM.ucf" xil_pn:type="FILE_UCF">
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
-    <file xil_pn:name="UART_Receiver.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
+    <file xil_pn:name="UART_Receiver.v" xil_pn:type="FILE_VERILOG"/>
     <file xil_pn:name="Button_dection.v" xil_pn:type="FILE_VERILOG">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
@@ -56,33 +53,16 @@
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
-    <file xil_pn:name="UART_RX_Testbench.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="PostRouteSimulation" xil_pn:seqID="251"/>
-    </file>
-    <file xil_pn:name="UART_Transmitter.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
-    <file xil_pn:name="UART_TX_Testbench.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="PostRouteSimulation" xil_pn:seqID="311"/>
-    </file>
-    <file xil_pn:name="UART_Final.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
-    <file xil_pn:name="UART_Transmission_Testbench.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="PostRouteSimulation" xil_pn:seqID="363"/>
-    </file>
+    <file xil_pn:name="UART_RX_Testbench.v" xil_pn:type="FILE_VERILOG"/>
+    <file xil_pn:name="UART_Transmitter.v" xil_pn:type="FILE_VERILOG"/>
+    <file xil_pn:name="UART_TX_Testbench.v" xil_pn:type="FILE_VERILOG"/>
+    <file xil_pn:name="UART_Final.v" xil_pn:type="FILE_VERILOG"/>
+    <file xil_pn:name="UART_Transmission_Testbench.v" xil_pn:type="FILE_VERILOG"/>
     <file xil_pn:name="Seven_segment.v" xil_pn:type="FILE_VERILOG">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
-    <file xil_pn:name="UART_Final.ucf" xil_pn:type="FILE_UCF">
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
+    <file xil_pn:name="UART_Final.ucf" xil_pn:type="FILE_UCF"/>
     <file xil_pn:name="Seven_Seg.v" xil_pn:type="FILE_VERILOG">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="1"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="1"/>
@@ -91,14 +71,8 @@
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="3"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="3"/>
     </file>
-    <file xil_pn:name="UART_Testbench.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="4"/>
-      <association xil_pn:name="PostRouteSimulation" xil_pn:seqID="261"/>
-    </file>
-    <file xil_pn:name="UART_Testbanch_Individual.v" xil_pn:type="FILE_VERILOG">
-      <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
-      <association xil_pn:name="PostRouteSimulation" xil_pn:seqID="266"/>
-    </file>
+    <file xil_pn:name="UART_Testbench.v" xil_pn:type="FILE_VERILOG"/>
+    <file xil_pn:name="UART_Testbanch_Individual.v" xil_pn:type="FILE_VERILOG"/>
     <file xil_pn:name="UART.ucf" xil_pn:type="FILE_UCF">
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
